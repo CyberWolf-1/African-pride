@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "id": "seed-1",
+      "category": "miss",
+      "name": "Exemple — Nadège K.",
+      "age": 19,
+      "city": "Douala",
+      "motto": "Grandir, inspirer, rayonner",
+      "bio": "Étudiante passionnée de culture et d'art, engagée dans sa communauté.",
+      "photo": null,
+      "votes": 3
+    },
+    {
+      "id": "seed-2",
+      "category": "master",
+      "name": "Exemple — Steve M.",
+      "age": 22,
+      "city": "Bamenda",
+      "motto": "Fier de mes racines",
+      "bio": "Jeune entrepreneur, sportif, toujours prêt à représenter sa ville.",
+      "photo": null,
+      "votes": 2
+    }
+  ],
+  "settings": {
+    "start": null,
+    "end": null
+  }
+}
